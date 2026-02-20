@@ -26,7 +26,7 @@ Password Generator
 
 <p><strong>Demo Video</strong></p>
 
-<a href="PUT-YOUR-VIDEO-LINK-HERE" target="_blank">
+<a href="https://youtube.com/shorts/MeAQSTwcIdM?feature=share" target="_blank">
 Click here to watch the demo video
 </a>
 
